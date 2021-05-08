@@ -8,7 +8,6 @@ This is the draft of the [hypothesis report](https://docs.google.com/document/d/
 # Requirements
 python notebook or Google colab notebook
 
-###By
-[Joseph Kirika]
-(josephkirika31@gmail.com)
+### By
+[Joseph Kirika](josephkirika31@gmail.com)
 
